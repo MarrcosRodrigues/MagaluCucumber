@@ -18,6 +18,6 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 		
 		)
 
-public class Runner{
+public class RunnerTest{
 
 }
